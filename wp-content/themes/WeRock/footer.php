@@ -44,7 +44,7 @@ global $xv_data;
                       <ul>
                           <li><?php the_author(); ?></li>
                           <li><?php the_time('j F, Y'); ?></li>
-                          <li><?php comments_number( '0 Comments', '1 Comment', '% Commentns' ); ?></li>
+                          <li><?php comments_number( '0 Comentários', '1 Comentário', '% Comentários' ); ?></li>
                       </ul>
                      </a> 
                   </div>
