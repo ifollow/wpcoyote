@@ -56,7 +56,7 @@ bread crums
                 <div class="container">
                     <h5>filter:</h5>
                     <ul>
-                        <li class="active"><a href="#" data-filter="*">All</a></li>
+                        <li class="active"><a href="#" data-filter="*">Todas</a></li>
                          <?php  foreach ( $terms as $term ) { ?>
                         <li><a href="#" data-filter=".<?php echo $term->slug; ?>"><?php echo $term->name; ?></a></li>
                         <?php } ?>  
