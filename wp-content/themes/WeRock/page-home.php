@@ -22,7 +22,7 @@ Home
               
                 $posts  =  $xv_data['home-carousel-num'];
                
-                get_werock_carousel_widget('Latest Albums',$posts,0) ; 
+                get_werock_carousel_widget('Galeria',$posts,0) ; 
             }
     ?>
 
@@ -33,7 +33,7 @@ Home
             <?php 
                     if(isset($xv_data['home-event-num'])){
                         $posts_event  =  $xv_data['home-event-num'];
-                        get_werock_events_widget('Upcomming Events',$posts_event,0);
+                        get_werock_events_widget('Nossa Agenda',$posts_event,0);
                     }
              ?>
                 
@@ -44,7 +44,7 @@ Home
                     if(isset($xv_data['home-news-num'])){
                      
                         $posts_news =  $xv_data['home-news-num'];
-                        get_werock_news_widget('Latest News',$posts_news,0); 
+                        get_werock_news_widget('Últimas Notícias',$posts_news,0); 
                     }
                  ?>
             
@@ -55,7 +55,7 @@ Home
                 <?php 
                     if(isset($xv_data['home-videos-num'])){
                          $posts_videos  =  $xv_data['home-videos-num'];
-                        get_werock_videos_widget('Latest Videos',$posts_videos,0);
+                        get_werock_videos_widget('Videos',$posts_videos,0);
                     }
                  ?>
             
