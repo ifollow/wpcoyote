@@ -23,6 +23,8 @@ videos
               <div id="google-map" class="contact-map" data-theme="<?php echo $xv_data['map-skin']; ?>" data-address="<?php echo $xv_data['gmap']; ?>" data-zoomlvl="13" data-maptype="HYBRID"></div>
                
             <?php }  ?>
+
+            <?php echo "<br /> <br />" ?>
                <?php  
                     if(!empty($xv_data['contact_form_id'])){
                      echo do_shortcode('[contact-form-7 id="'.$xv_data['contact_form_id'].'"]');  

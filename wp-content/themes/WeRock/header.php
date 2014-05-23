@@ -21,7 +21,7 @@
 <meta content="yes" name="apple-mobile-web-app-capable" />
 <meta name="viewport" content="minimum-scale=1.0, width=device-width, maximum-scale=1, user-scalable=no" />
 <link rel="shortcut icon" href="<?php if(!empty($xv_data['fav-icon']['url'])){ echo $xv_data['fav-icon']['url'];}else{ echo get_template_directory_uri() .  '/assets/img/favicon.png'; }?>" type="image/x-icon" />
-<title><?php wp_title( '|', true, 'right' ); ?></title>
+<title>Coyote Show Bar - Campo Grande / Mato Grosso do Sul</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 
