@@ -14,14 +14,8 @@ global $xv_data;
           <div class="row">
               <div class="col-lg-6 col-md-6 col-sm-6">
                   <h1>Galeria</h1>
-                    <h5> <?php 
-                              $saved_data = get_post_meta($post->ID,'xv_page-subtitle',true);
-                              
-
-                              echo $saved_data;
-
-
-                            ?>
+                    <h5> 
+                    Confira nossas últimas fotos adicionadas!
                     </h5>
                 </div>
                 
