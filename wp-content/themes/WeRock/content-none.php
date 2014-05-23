@@ -10,7 +10,7 @@
 
 <section class="no-results not-found">
 	
-		<h1 class="page-title"><?php _e( 'Nothing Found', 'werock' ); ?></h1>
+		<h1 class="page-title"><?php _e( 'Não encontrado!', 'werock' ); ?></h1>
 
 
 	<div class="page-content">
@@ -20,7 +20,7 @@
 
 		<?php elseif ( is_search() ) : ?>
 
-			<p><?php _e( 'Sorry, but nothing matched your search terms. Please try again with some different keywords.', 'werock' ); ?></p>
+			<p><?php _e( 'Desculpe, não encontramos o que você buscou, tente novamente.', 'werock' ); ?></p>
 			<?php get_search_form(); ?>
 
 		<?php else : ?>
