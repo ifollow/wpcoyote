@@ -74,17 +74,17 @@ if ( post_password_required() )
 	<?php endif; ?>
    <?php
 	    $fields =  array(
-	    'title_reply'=>'leave a reply',
+	    'title_reply'=>'Deixar uma resposta',
 	    'comment_notes_before' => '',
 	    'comment_notes_after' => '',
-	    'label_submit' => __( 'Submit reply', 'werock'),
+	    'label_submit' => __( 'Enviar resposta', 'werock'),
 	    'fields' => apply_filters( 'comment_form_default_fields', array (
 	    'author' =>
 
 	    '<div class="row">
 		    <div class="col-lg-3 col-md-3 col-sm-3">
-		    <input type="text" placeholder="Name"  name="author" id="author" value="' . esc_attr( $commenter['comment_author'] ).
-		    '" size="60" placeholder="Name*" required />
+		    <input type="text" placeholder="Nome"  name="author" id="author" value="' . esc_attr( $commenter['comment_author'] ).
+		    '" size="60" placeholder="Nome*" required />
 		    </div>',
 
 	  		'email' =>
