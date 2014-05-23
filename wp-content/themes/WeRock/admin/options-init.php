@@ -503,7 +503,7 @@ if (!class_exists('Redux_Framework_sample_config')) {
                         'compiler' => array('body'),
                         'output' => array('.site-title'),
                         'title' => __('Theme Skin', 'redux-framework-demo'),
-                        'default' => '#E62948',
+                        'default' => '#FF0000',
                         'validate' => 'color',
                     ),
                    

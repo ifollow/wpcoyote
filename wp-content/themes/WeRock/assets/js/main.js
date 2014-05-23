@@ -266,7 +266,7 @@ jQuery(document).ready(function ($) {
         case 'pink':
             map_theme = [{
                 "stylers": [{
-                    "hue": "#e62948"
+                    "hue": "#FF0000"
                 }, {
                     "visibility": "on"
                 }, {

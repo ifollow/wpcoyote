@@ -101,7 +101,7 @@ a img.aligncenter {
 	font-weight:700;
 }
 #wp-calendar tbody {
-	color:#E62948;
+	color:#FF0000;
 }
 #wp-calendar tbody td {
 	background: none repeat scroll 0 0 #282828;
@@ -166,7 +166,7 @@ a img.aligncenter {
 	width:100%;
 }
 .tagcloud a {
-	background: none repeat scroll 0 0 #E62948;
+	background: none repeat scroll 0 0 #FF0000;
     border-radius: 4px;
     color: #FFFFFF;
     display:inline-block;
@@ -216,7 +216,7 @@ a img.aligncenter {
 	font-family:oswald;
 }
 .widget-title:before{
-	background: none repeat scroll 0 0 #E62948;
+	background: none repeat scroll 0 0 #FF0000;
     content: "";
     font-size: 30px;
     height: 100%;
@@ -261,7 +261,7 @@ a img.aligncenter {
 	color:#fff;
 }
 .latest-detail .date-stamp {
-	 color: #E62948;
+	 color: #FF0000;
     font-size: 13px;
     line-height: 28px;
 	font-weight: 400;
@@ -442,11 +442,11 @@ a img.aligncenter {
 
 /*==========Pagination-===========*/
 .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus{
-	 background: none repeat scroll 0 0 #E62948;
+	 background: none repeat scroll 0 0 #FF0000;
     color: #FFFFFF;
 }
 .pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus{
-	background: none repeat scroll 0 0 #E62948;
+	background: none repeat scroll 0 0 #FF0000;
     color: #FFFFFF;
 }
 .pagination > li > a, .pagination > li > span{
@@ -595,7 +595,7 @@ a img.aligncenter {
 	font-size:15px;
 }
 .comment-list time {
-    color: #E62948;
+    color: #FF0000;
     font-family: roboto;
     font-size: 13px;
     line-height: 30px;
@@ -608,5 +608,5 @@ a img.aligncenter {
 	font-weight:400;
 }
 .comment-list .reply a span{
-	color:#E62948;
+	color:#FF0000;
 }

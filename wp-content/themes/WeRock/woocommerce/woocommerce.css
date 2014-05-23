@@ -130,10 +130,10 @@ p.demo_store {
 	content: "\2713"
 }
 .woocommerce .woocommerce-info, .woocommerce-page .woocommerce-info {
-	border-top: 3px solid #E62948
+	border-top: 3px solid #FF0000
 }
 .woocommerce .woocommerce-info:before, .woocommerce-page .woocommerce-info:before {
-	background-color: #E62948;
+	background-color: #FF0000;
 	content: "i";
 	font-family: Times, Georgia, serif;
 	font-style: italic
@@ -583,19 +583,19 @@ p.demo_store {
 }
 .woocommerce #content input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce-page #content input.button:hover, .woocommerce-page #respond input#submit:hover, .woocommerce-page a.button:hover, .woocommerce-page button.button:hover, .woocommerce-page input.button:hover {
 	background:none;
-	background: #E62948;
+	background: #FF0000;
 	text-decoration: none
 }
 .woocommerce #content input.button:active, .woocommerce #respond input#submit:active, .woocommerce a.button:active, .woocommerce button.button:active, .woocommerce input.button:active, .woocommerce-page #content input.button:active, .woocommerce-page #respond input#submit:active, .woocommerce-page a.button:active, .woocommerce-page button.button:active, .woocommerce-page input.button:active {
 	top: 1px
 }
 .woocommerce #content input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce-page #respond input#submit.alt, .woocommerce-page a.button.alt, .woocommerce-page button.button.alt, .woocommerce-page input.button.alt {
-	background: #E62948 ;
+	background: #FF0000 ;
 	color: #fff;
 	font-weight:normal;
 }
 .woocommerce #content input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce-page #content input.button.alt:hover, .woocommerce-page #respond input#submit.alt:hover, .woocommerce-page a.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce-page input.button.alt:hover {
-	background:#E62948;
+	background:#FF0000;
 }
 .woocommerce #content input.button.disabled, .woocommerce #content input.button:disabled, .woocommerce #respond input#submit.disabled, .woocommerce #respond input#submit:disabled, .woocommerce a.button.disabled, .woocommerce a.button:disabled, .woocommerce button.button.disabled, .woocommerce button.button:disabled, .woocommerce input.button.disabled, .woocommerce input.button:disabled, .woocommerce-page #content input.button.disabled, .woocommerce-page #content input.button:disabled, .woocommerce-page #respond input#submit.disabled, .woocommerce-page #respond input#submit:disabled, .woocommerce-page a.button.disabled, .woocommerce-page a.button:disabled, .woocommerce-page button.button.disabled, .woocommerce-page button.button:disabled, .woocommerce-page input.button.disabled, .woocommerce-page input.button:disabled {
 	color: #aaa;
@@ -1338,7 +1338,7 @@ line-height:normal
 	display:block;
 }
 .woocommerce .lost_password > a,.woocommerce .lost_password > a:hover{
-	color:#E62948;
+	color:#FF0000;
 }
 
 .woocommerce ul#shipping_method, .woocommerce-page ul#shipping_method {
@@ -1918,11 +1918,11 @@ Woo-changes
 }
 .woocommerce .woocommerce-message:before, .woocommerce-page .woocommerce-message:before {
 	height: 24px;
-	background: #E62948;
+	background: #FF0000;
 	line-height: 0;
 }
 .woocommerce .woocommerce-message, .woocommerce-page .woocommerce-message {
-	border-color: #E62948;
+	border-color: #FF0000;
 }
 .woocommerce .woocommerce-error:before, .woocommerce .woocommerce-info:before, .woocommerce .woocommerce-message:before, .woocommerce-page .woocommerce-error:before, .woocommerce-page .woocommerce-info:before, .woocommerce-page .woocommerce-message:before {
 	box-shadow: none !important;
@@ -1952,7 +1952,7 @@ Woo-changes
 	margin: 0;
 }
 .posted_in a, .woocommerce #content table.cart a.remove, .woocommerce table.cart a.remove, .woocommerce-page #content table.cart a.remove, .woocommerce-page table.cart a.remove, .product-name a, .product-name a:hover {
-	color: #E62948;
+	color: #FF0000;
 }
 .woocommerce .coupon input.button {
 	margin-left: 10px !important;
@@ -1986,7 +1986,7 @@ Woo-changes
 	border-bottom: 1px solid #202020;
 }
 .cart_totals h2:after {
-	background: none repeat scroll 0 0 #E62948;
+	background: none repeat scroll 0 0 #FF0000;
 	content: "";
 	font-size: 30px;
 	height: 100%;
@@ -2023,11 +2023,11 @@ Woo-changes
 /*Hovers*/
 
 .woocommerce-info a:hover{
-	color: #E62948;
+	color: #FF0000;
 }
 
 .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active, .woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce .product .button:hover, .woocommerce .product .added_to_cart:hover, .woocommerce .product .button:focus, .woocommerce .product .added_to_cart:focus, .woocommerce #content table.cart a.remove:hover, .woocommerce table.cart a.remove:hover, .woocommerce-page #content table.cart a.remove:hover, .woocommerce-page table.cart a.remove:hover {
-	background: #E62948;
+	background: #FF0000;
 }
  @media (max-width: 1199px) {
 .woocommerce .product a.xv_product_title h3 {
