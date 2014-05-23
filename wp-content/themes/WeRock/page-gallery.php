@@ -19,7 +19,7 @@ bread crums
        <div class="container">
           <div class="row">
               <div class="col-lg-6 col-md-6 col-sm-6">
-                  <h1><?php the_title(); ?></h1>
+                  <h1>Galeria</h1>
                     <h5>
                       Confira nossas fotos!
                   </h5>
