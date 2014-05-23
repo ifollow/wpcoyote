@@ -262,7 +262,7 @@ function get_werock_news_widget($title,$post_per_page,$offset=0){
                        <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
                   <ul>
                       <li><span class="fa fa-clock-o"></span><?php the_time('j F, Y'); ?></li>
-                      <li><span class=" fa fa-user"></span><?php _e( 'by ', 'werock' ); ?><span><?php the_author(); ?></span></li>
+                      <li><span class=" fa fa-user"></span><?php _e( 'por ', 'werock' ); ?><span><?php the_author(); ?></span></li>
                   </ul>
                   <p><?php werock_get_excerpt(150,1); ?></p>
                 </div><!--\\latest news-->
