@@ -18,9 +18,9 @@ Home
 <?php get_werock_player_widget(); ?>
 
 <?php 
-            if(isset($xv_data['home-post-carousel']) && $xv_data['home-post-carousel']==1){ 
+            if(isset($xv_data['home-gallery-carousel']) && $xv_data['home-gallery-carousel']==1){ 
               
-                $posts  =  $xv_data['home-carousel-num'];
+                $posts  =  $xv_data['home-gallery-num'];
                
                 get_werock_carousel_widget('Galeria',$posts,0) ; 
             }
