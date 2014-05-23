@@ -453,12 +453,7 @@ return $post_data;
 add_filter('wp_insert_post_data', 'onetarek_prevent_future_type');
 remove_action('future_post', '_future_post_hook');
 
-function custom_admin_logo() {
-echo '<style type="text/css">
-#header-logo { background-image: url('.get_bloginfo('template_directory').'/images/logo.png) !important; }
-</style>';
-}
-add_action('admin_head', 'custom_admin_logo');
+
 
 
 //Disable IG Page Builder CSS and JS
