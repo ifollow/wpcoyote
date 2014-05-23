@@ -12,7 +12,15 @@ bread crums
        <div class="container">
           <div class="row">
               <div class="col-lg-6 col-md-6 col-sm-6">
-                  <h1><?php the_title(); ?></h1>
+                  <h1><?php 
+                  
+                  if(the_title() == "GALLERY" or the_title() == "gallery"){
+
+                    echo "Galeria"
+                  }else{
+                  the_title(); 
+                }
+                  ?></h1>
                     <h5> <?php 
                               $saved_data = get_post_meta($post->ID,'xv_page-subtitle',true);
                               echo $saved_data;
