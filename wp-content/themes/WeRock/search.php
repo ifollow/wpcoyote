@@ -14,8 +14,8 @@ get_header(); ?>
        <div class="container">
        		<div class="row">
             	<div class="col-lg-6 col-md-6 col-sm-6">
-                	<h1><?php printf( __( 'Search', 'werock' ), '<span>' . get_search_query() . '</span>' ); ?></h1>
-                    <h5><?php printf( __( 'Search Results for: %s', 'werock' ), '<span>' . get_search_query() . '</span>' ); ?></h5>
+                	<h1><?php printf( __( 'Buscar', 'werock' ), '<span>' . get_search_query() . '</span>' ); ?></h1>
+                    <h5><?php printf( __( 'Resultados da busca para: %s', 'werock' ), '<span>' . get_search_query() . '</span>' ); ?></h5>
                 </div>
                 
            

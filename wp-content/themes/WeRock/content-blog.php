@@ -12,7 +12,7 @@
                   <ul class="post-meta">
                       <li><span class="fa fa-clock-o"></span><?php the_time('j F, Y'); ?></li>
                       <li><span class=" fa fa-user"></span><?php _e( 'por ', 'werock' ); ?><span><?php the_author(); ?></span></li>
-                      <li><span class="fa fa-comment"></span><?php comments_number( '0 Comments', '1 Comment', '% Commentns' ); ?></li>
+                      <li><span class="fa fa-comment"></span><?php comments_number( '0 Comentários', '1 Comentário', '% Comentários' ); ?></li>
                   </ul>
                   <p><?php werock_get_excerpt(220); ?></p>
                 </div>

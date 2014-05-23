@@ -96,7 +96,7 @@ add_filter( 'wp_nav_menu_objects', 'werock_menu_set_dropdown', 10, 2 );
 */
  function werock_search_form( $form ) {
     $form = '<form role="search" method="get" id="search-form-mobile" action="'. home_url( '/' ) .'">';
-    $form .= ' <input  name="s" type="text" placeholder="search"/>';
+    $form .= ' <input  name="s" type="text" placeholder="buscar"/>';
     $form .= ' <button type="submit"><i class="fa fa-search"></i></button>';
     $form .= '</form>';
     return $form;
@@ -115,7 +115,7 @@ function werock_get_excerpt($count,$news=0){
   if($news == 1){
          $excerpt = $excerpt;
   }else{
-         $excerpt = $excerpt.'<p><a class="btn" href="'.$permalink.'"> Read more <i class="icon-angle-right"></i></a></p>';
+         $excerpt = $excerpt.'<p><a class="btn" href="'.$permalink.'"> Leia mais <i class="icon-angle-right"></i></a></p>';
        }
   echo $excerpt;
 
@@ -141,7 +141,7 @@ function werock_get_pagination($pages = '', $range = 4)
      if(1 != $pages)
      {
          echo "<ul class=\"pagination\">";
-         if($paged > 2 && $paged > $range+1 && $showitems < $pages) echo "<li><a href='".get_pagenum_link(1)."'>&laquo; First</a></li>";
+         if($paged > 2 && $paged > $range+1 && $showitems < $pages) echo "<li><a href='".get_pagenum_link(1)."'>&laquo; Primeiro</a></li>";
          echo'<li>';
           previous_posts_link('<i class="fa fa-angle-left pagination-icon"></i>');
          echo'</li>';
@@ -158,7 +158,7 @@ function werock_get_pagination($pages = '', $range = 4)
           echo'<li>'; 
           next_posts_link('<i class="fa fa-angle-right pagination-icon"></i>','');
           echo'</li>';
-         if ($paged < $pages-1 &&  $paged+$range-1 < $pages && $showitems < $pages) echo "<li><a href='".get_pagenum_link($pages)."'>Last &raquo;</a></li>";
+         if ($paged < $pages-1 &&  $paged+$range-1 < $pages && $showitems < $pages) echo "<li><a href='".get_pagenum_link($pages)."'>Último &raquo;</a></li>";
          echo "</ul>\n";
      }
 }
@@ -190,7 +190,7 @@ function werock_breadcrumbs()
                 if ($thisCat->parent != 0) {
                     echo get_category_parents($parentCat, true, $sep);
                 }
-                echo $before . 'Archive by category "' . single_cat_title('', false) . '"' . $after;
+                echo $before . 'Arquivo por categoria "' . single_cat_title('', false) . '"' . $after;
             } elseif (is_day()) {
                 echo '<li><a href="' . get_year_link(get_the_time('Y')) . '">' . get_the_time(
                     'Y'
@@ -249,13 +249,13 @@ function werock_breadcrumbs()
                 }
                 echo $before . get_the_title() . $after;
             } elseif (is_search()) {
-                echo $before . 'Search results for "' . get_search_query() . '"' . $after;
+                echo $before . 'Resultados da busca para: "' . get_search_query() . '"' . $after;
             } elseif (is_tag()) {
-                echo $before . 'Posts tagged "' . single_tag_title('', false) . '"' . $after;
+                echo $before . 'Tags do post"' . single_tag_title('', false) . '"' . $after;
             } elseif (is_author()) {
                 global $author;
                 $userdata = get_userdata($author);
-                echo $before . 'Articles posted by ' . $userdata->display_name . $after;
+                echo $before . 'Artigos postados por: ' . $userdata->display_name . $after;
             } elseif (is_404()) {
                 echo $before . 'Error 404' . $after;
             }
@@ -286,7 +286,7 @@ class xv_latest_posts_wgt extends WP_Widget
 {
   function xv_latest_posts_wgt()
   {
-    $widget_ops = array('classname' => 'xv_latest_posts_wgt', 'description' => 'Display latest posts with thumbnails' );
+    $widget_ops = array('classname' => 'xv_latest_posts_wgt', 'description' => 'Mostrar últimos posts com miniaturas' );
     $this->WP_Widget('xv_latest_posts_wgt', 'werock Latest Posts', $widget_ops);
   }
   function form($instance)
@@ -306,7 +306,7 @@ class xv_latest_posts_wgt extends WP_Widget
 ?>
     <p><label for="<?php echo $this->get_field_id('title'); ?>">Title: <input class="widefat" id="<?php echo $this->get_field_id('title'); ?>" name="<?php echo $this->get_field_name('title'); ?>" type="text" value="<?php echo  esc_attr($title); ?>" /></label></p>
     <p>
-    <label for="<?php echo $this->get_field_id('count'); ?>"><?php _e('Number Of Posts:', 'wp_widget_plugin'); ?></label>
+    <label for="<?php echo $this->get_field_id('count'); ?>"><?php _e('Número de Posts:', 'wp_widget_plugin'); ?></label>
     <input id="<?php echo $this->get_field_id('count'); ?>" name="<?php echo $this->get_field_name('count'); ?>" type="text" value="<?php echo $count; ?>" />
     </p>
     
@@ -346,7 +346,7 @@ class xv_latest_posts_wgt extends WP_Widget
    <div class="recent-posts">                    
        <div class="head-wrapper">
           <h3 class="widget-title">
-              <?php if (!empty($title)){echo $title;} else{echo "Recent Posts";} ?>
+              <?php if (!empty($title)){echo $title;} else{echo "Posts Recentes";} ?>
           </h3>
        </div>
                     
@@ -393,7 +393,7 @@ class xv_latest_comments_wgt extends WP_Widget
 {
    function xv_latest_comments_wgt()
   {
-    $widget_ops = array('classname' => 'xv_latest_comments_wgt', 'description' => 'Display Latest Comments' );
+    $widget_ops = array('classname' => 'xv_latest_comments_wgt', 'description' => 'Mostrar últimos comentários' );
     $this->WP_Widget('xv_latest_comments_wgt', 'werock Latest Comments', $widget_ops);
   }
  
