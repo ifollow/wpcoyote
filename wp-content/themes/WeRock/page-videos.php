@@ -8,9 +8,23 @@ get_header();
 global $smof_data;
  ?>
 
-<?php get_template_part( 'content', 'top' ); ?>
-
-
+  <section class="breadcrumb">
+      
+       <div class="container">
+          <div class="row">
+              <div class="col-lg-6 col-md-6 col-sm-6">
+                  <h1>Videos</h1>
+                    <h5> 
+                    Uma série de videos para você assistir!
+                    </h5>
+                </div>
+                
+                <div class="col-lg-6 col-md-6 col-sm-6">
+              <?php if (function_exists('werock_breadcrumbs')) { werock_breadcrumbs();} ?>
+          </div>
+       </div>
+  </section>
+<div class="clearfix"></div>
 
 <!--=================================
 videos
