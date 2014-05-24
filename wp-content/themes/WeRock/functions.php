@@ -41,6 +41,13 @@
     require_once ('inc/widgets/widget-functions.php');
     
 
+add_action('admin_head', 'my_custom_logo');
+
+function my_custom_logo() {
+echo '<style type="text/css">
+#wp-admin-bar-wp-logo .ab-icon {background: url('.get_bloginfo('template_directory').'/images/minilogo.png) no-repeat center top !important; }</style>';
+}
+
 /**
  * Set the content width based on the theme's design and stylesheet.
  */

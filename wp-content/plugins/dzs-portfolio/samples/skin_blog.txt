@@ -1,0 +1,1 @@
+[zoomfolio settings_mode="masonry" skin="skin-blog" settings_specialgrid="none" settings_lightboxlibrary="zoombox" design_item_width="280" fullscreen="off" sort_order="ASC" settings_disablecats="off" settings_preloadall="off" design_categories_pos="top" settings_biggalleryall="off" orderby="date" settings_ajax="on" posts_per_page="3" bgcolor="transparent"]

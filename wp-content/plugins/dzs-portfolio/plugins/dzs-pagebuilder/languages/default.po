@@ -1,0 +1,596 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-06-19 17:10+0200\n"
+"PO-Revision-Date: 2013-06-19 17:10+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wordpress/wp-content/"
+"plugins/dzs-portfolio\n"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/dzs_functions.php:97
+msgid "Read More"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/dzs_functions.php:155
+msgid "read more"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:87
+msgid "Video Thumbnail"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:126
+msgid "Portfolio Categories"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:189
+msgid "Portfolio Items Permalink Base"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:194
+msgid "Product category base"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:201
+msgid "Product tag base"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:208
+msgid "Product attribute base"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:222
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:223
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:237
+msgid "DZS ZoomFolio Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:224
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:225
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:238
+msgid "Item Gallery"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:268
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:43
+msgid "Portfolio Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:268
+msgid "DZS Portfolio Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:324
+msgid "Video Gallery Main Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:327
+msgid "Admin Options"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:329
+msgid "Replace \"All\" with ..."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:334
+msgid "Enable Meta For Pages Too ? "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:338
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:800
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:883
+msgid "off"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:342
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:804
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:879
+msgid "on"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:346
+msgid "allows to display Pages too in the Portfolio .. and set option for them"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:350
+msgid "Extra CSS"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:354
+msgid "Twitter Options"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:355
+msgid ""
+"If you want Twitter items in your portfolio, you have to input here the "
+"required oAuth keys for Twitter 1.1 - \r\n"
+"                    you can register for an api key <a href=\"https://dev."
+"twitter.com/apps/new\">here</a>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:358
+msgid "Token"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:363
+msgid "Token Secret"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:368
+msgid "Consumer Key"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:372
+msgid "Consumer Secret"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:376
+msgid "Save Options"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:412
+msgid "Add Media"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:419
+msgid ""
+"These settings control the permalinks used for products. These settings only "
+"apply when <strong>not using \"default\" permalinks above</strong>."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:435
+msgid "Default"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:439
+msgid "Product"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:444
+msgid "Custom Base"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:446
+msgid ""
+"Enter a custom base to use. A base <strong>must</strong> be set or WordPress "
+"will use default instead."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:665
+msgid "Upload"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:680
+msgid "Select Featured Media Type"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:687
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:695
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:711
+msgid "image"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:691
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:699
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:729
+msgid "gallery"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:703
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:741
+msgid "youtube"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:707
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:745
+msgid "vimeo"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:715
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:753
+msgid "testimonial"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:719
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:757
+msgid "twitter"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:725
+msgid "thumb"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:733
+msgid "audio"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:737
+msgid "video"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:749
+msgid "link"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:765
+msgid "Featured Media"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:769
+msgid ""
+"the path to the location of the image / if you have a featured image set, "
+"there is no need to input anything here"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:770
+msgid ""
+"use the Item Gallery form in the right to upload the gallery ( this field is "
+"not needed ) --->"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:771
+msgid ""
+"the path to the location of the mp3 / if you have a ogg for firefox too you "
+"can place it in the backup field below"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:772
+msgid ""
+"the path to the location of the mp4 / if you have a ogg for firefox too you "
+"can place it in the backup field below"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:773
+msgid "input here the id of the video"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:774
+msgid "the link on which the click directs too"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:775
+msgid "some testimonial text"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:776
+msgid "the twitter id to get the last tweet from"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:779
+msgid "Featured Media OGG backup"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:782
+msgid "a backup ogg file for html5 streaming"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:785
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:855
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:898
+msgid "Big Image"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:791
+msgid "Big Gallery"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:793
+msgid ""
+"make the big image part of a gallery. the different items on the same page "
+"with the same gallery name will have appear in the same gallery."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:796
+msgid "Disable Content"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:808
+msgid "disable the content in skin-clean and skin-accordion"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:812
+msgid "Force Item Width"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:814
+msgid "force a specific width for this item"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:817
+msgid "Force Item Height"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:819
+msgid "force a specific height for this item"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:822
+msgid "Force Thumb Width"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:824
+msgid "force a specific width for the thumb of this item"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:827
+msgid "Force Thumb Height"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:829
+msgid "force a specific height for the thumb of this item"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:832
+msgid "Highlight Color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:834
+msgid ""
+"represents the overlay color of the item ( if for example the selected skin "
+"is skin-blog ) / leave blank for default "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:837
+msgid "Skin Blog / Position Top Overlay"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:839
+msgid "set the overlay initial top position ( only for skin-blog )"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:842
+msgid "Meta Order"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:844
+msgid ""
+"used only if orderby is set to <strong>meta order</strong> in the shortcode "
+"parameters. it will display the portfolio items based on the \r\n"
+"        values of each portfolio item defined here"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:847
+msgid "Linking Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:851
+msgid "Featured Area Links To...."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:859
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:894
+msgid "Item URL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:863
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:902
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:914
+msgid "Custom Link"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:867
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:906
+msgid "Nowhere"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:871
+msgid "Choose where clicking the featured area should go."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:875
+msgid "Open Big Image In Lightbox"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:890
+msgid "Meta Area Links To...."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:910
+msgid ""
+"Choose where clicking the featured area should go. You can input the custom "
+"link below."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/portfolio.php:1788
+msgid "comments"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/admin/pagebuilder/pagebuilder.php:17
+msgid "Page Builder"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/admin/pagebuilder/pagebuilder.php:198
+msgid "Layouts"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/admin/pagebuilder/pagebuilder.php:237
+msgid "Widgets"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/admin/pagebuilder/pagebuilder.php:246
+msgid "Main Layout"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:45
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:232
+msgid "Insert Portfolio"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:62
+msgid "Mode"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:71
+msgid "Skin"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:81
+msgid "Special Grid"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:88
+msgid ""
+"select a special grid like special-grid-1 where elments are always justified "
+"no matter screen size"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:91
+msgid "Item Width"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:93
+msgid "percent width is acceptable"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:96
+msgid "Item Height"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:98
+msgid "leave blank for auto width"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:101
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:110
+msgid "Order By"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:117
+msgid "Preload All Elements"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:124
+msgid "Background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:126
+msgid "you can have a color for background "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:129
+msgid "Hide Categories"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:134
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:159
+msgid "categories only work in <strong>masonry</strong> mode"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:137
+msgid "Disable Item Meta"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:142
+msgid "disable title and description ( for a category mode for example ) "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:145
+msgid "Make All Big Media Part of the Same Gallery ?"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:150
+msgid ""
+"you can set a gallery on each Portfolio Item individually, but if you want "
+"all the items\n"
+"                to be part of the same gallery, you can choose this to ON"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:154
+msgid "Categories Position"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:162
+msgid "Items to show"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:164
+msgid "Leave blank to show all items. "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:167
+msgid "Endless scrolling"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:172
+msgid ""
+"if you want endless scrollins, you must set how many items would you like to "
+"show on every user load in the <strong>Items to show</strong> field"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:175
+msgid "Fullscreen"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:180
+msgid "the portfolio can appear fullscreen with a close button"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:183
+msgid "Lightbox Library"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:190
+msgid "Categories"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:198
+msgid ""
+"categories only work in <strong>masonry</strong> mode; these are categories "
+"for the portfolio and wall mode, for the normal post type you have to input "
+"the categories id yourself ( see docs in readme/ folder )"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:201
+msgid "Default Category"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:209
+msgid "You can choose a default category at start"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:212
+msgid "Extra Classes"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:214
+msgid ""
+"some extra classes to be added to the portfolio container - ie. "
+"<strong>delay-effects</strong> <strong>filter-grayscale</strong>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:217
+msgid "Custom WPQuery Arguments"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:219
+msgid ""
+"advanced arguments to the query - like post_type=post or posts_per_page=4 or "
+"combine them post_type=post&amp;posts_per_age=4"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:221
+msgid "Wall Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:223
+msgid "Wall Items Per Row"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:225
+msgid "only for the wall mode"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:228
+msgid "Wall Items Spacing"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/dzs-portfolio/tinymce/popupiframe.php:230
+msgid "the spacing between wall elements"
+msgstr ""
