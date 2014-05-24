@@ -98,17 +98,9 @@ global $xv_data;
             <div class="col-lg-3 col-md-3 col-sm-3">
           
                          <?php if(isset($xv_data['switch_flicker_widget']) && $xv_data['switch_flicker_widget']==1){ ?>
-                        <h4><span class="fa fa-flickr"></span><?php if(isset($xv_data['feed_bar_flicker_title'])){echo  $xv_data['feed_bar_flicker_title']; }?></h4>
+                        <h4><span class="fa fa-flickr"></span>Feed Instagram</h4>
                         <div class="flickr">
-                           <?php if(isset($xv_data['flicker_widget_id'])){
-                                  if(!empty($xv_data['flicker_widget_limit'])){
-                                      $filicks = $xv_data['flicker_widget_limit'];
-                                  }
-                                  else{
-                                    $filicks =  10;
-                                  }
-                                  echo '<ul data-limit="'.$filicks.'" data-flickerID="'.$xv_data['flicker_widget_id'].'" id="flicker-feed"></ul>';
-                             }?>
+                          <iframe src="http://snapwidget.com/in/?h=Y295b3Rlc2hvd2JhcnxpbnwxMjV8M3wzfDAwMDAwMHx5ZXN8NXxmYWRlSW58b25TdGFydHx5ZXM=&v=24514" title="Instagram Widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:420px; height:420px"></iframe>
                         </div>
                         
                          <?php }else{ dynamic_sidebar( 'footer-widget3' ); } ?>
