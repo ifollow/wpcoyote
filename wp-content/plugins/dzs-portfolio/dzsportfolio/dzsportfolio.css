@@ -557,7 +557,7 @@
 
 .dzsportfolio .selector-con .categories .a-category.active {
   opacity: 1;
-  color: #cd9126;
+  color: #FF0000;
   border-bottom: 1px solid rgba(205, 145, 38, 0.1);
   padding-bottom: 2px; }
 
@@ -661,7 +661,7 @@
   font-size: 24px;
   color: #aaa;
   padding: 5px 0 15px;
-  border-bottom: 2px solid #cd9126;
+  border-bottom: 2px solid #FF0000;
   font-family: "Open Sans", "Helvetica Neue",Helvetica,Arial,sans-serif; }
 
 .dzsportfolio .project-slider-con {
@@ -684,7 +684,7 @@
   color: #eee; }
 
 .project-meta-con a {
-  color: #cd9126; }
+  color: #FF0000; }
 
 .project-meta-con .meta-prop {
   margin: 8px 0; }
@@ -887,11 +887,11 @@
   margin-left: -3px; }
 
 .dzsportfolio.skin-default .portitem:hover {
-  border-bottom: 1px solid #cd9126;
+  border-bottom: 1px solid #FF0000;
   background: rgba(255, 255, 255, 0.03); }
 
 .dzsportfolio.skin-default .portitem:hover:after {
-  border-bottom-color: #cd9126; }
+  border-bottom-color: #FF0000; }
 
 .dzsportfolio.skin-default .portitem .the-overlay:hover {
   background: rgba(255, 255, 255, 0.15); }
@@ -910,7 +910,7 @@
   top: 1px; }
 
 .dzsportfolio.skin-default .portitem:hover .the-title {
-  color: #cd9126; }
+  color: #FF0000; }
 
 .dzsportfolio.skin-default .selector-con .categories .a-category:last-child:after {
   display: none; }
@@ -945,7 +945,7 @@
 
 .dzsportfolio.skin-zero .selector-con .categories .a-category.active {
   opacity: 1;
-  color: #cd9126;
+  color: #FF0000;
   border-bottom: 0px solid rgba(205, 145, 38, 0.1);
   padding-bottom: 2px; }
 
@@ -1156,7 +1156,7 @@
 
 .dzsportfolio.skin-clean .selector-con .categories .a-category.active {
   opacity: 1;
-  color: #cd9126;
+  color: #FF0000;
   border-bottom: 0px solid rgba(205, 145, 38, 0.1);
   padding-bottom: 2px; }
 
@@ -1397,7 +1397,7 @@
 
 .dzsportfolio.skin-nebula .selector-con .categories .a-category.active {
   opacity: 1;
-  color: #cd9126;
+  color: #FF0000;
   border-bottom: 0px solid rgba(205, 145, 38, 0.1);
   padding-bottom: 2px; }
 
@@ -1690,7 +1690,7 @@
 
 .dzsportfolio.skin-timeline .selector-con .categories .a-category.active {
   opacity: 1;
-  color: #cd9126;
+  color: #FF0000;
   border-bottom: 0px solid rgba(205, 145, 38, 0.1);
   padding-bottom: 2px; }
 
@@ -2089,7 +2089,7 @@
 
 .dzsportfolio.skin-blog .selector-con .categories .a-category.active {
   opacity: 1;
-  color: #cd9126;
+  color: #FF0000;
   border-bottom: 0px solid rgba(205, 145, 38, 0.1);
   padding-bottom: 2px; }
 
@@ -2348,7 +2348,7 @@
 
 .dzsportfolio.skin-accordion .selector-con .categories .a-category.active {
   opacity: 1;
-  color: #cd9126;
+  color: #FF0000;
   border-bottom: 0px solid rgba(205, 145, 38, 0.1);
   padding-bottom: 2px; }
 
@@ -2487,7 +2487,7 @@
 
 .dzsportfolio.skin-corporate .selector-con .categories .a-category.active {
   opacity: 1;
-  color: #cd9126;
+  color: #FF0000;
   border-bottom: 0px solid rgba(205, 145, 38, 0.1);
   padding-bottom: 2px; }
 
