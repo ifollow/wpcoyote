@@ -67,7 +67,7 @@ global $xv_data;
              
                              <?php if(isset($xv_data['switch_about_widget']) && $xv_data['switch_about_widget']==1){ ?>
 
-                                <h4><span class="fa fa-sitemap"></span><?php if(isset($xv_data['feed_bar_about_title'])){echo  $xv_data['feed_bar_about_title']; }?></h4>
+                                <h4><span></span><?php if(isset($xv_data['feed_bar_about_title'])){echo  $xv_data['feed_bar_about_title']; }?></h4>
                                   <?php if(isset($xv_data['about_widget'])){echo  $xv_data['about_widget']; }?>
 
                           <?php }else{ dynamic_sidebar( 'footer-widget1' ); } ?>
