@@ -99,10 +99,10 @@ global $xv_data;
           
                          <?php if(isset($xv_data['switch_flicker_widget']) && $xv_data['switch_flicker_widget']==1){ ?>
                         <h4><span class="fa fa-flickr"></span>Feed Instagram</h4>
-                        <div class="flickr" style="width:210px;">
+                        <div class="flickr" style="width:228px; height:240px;">
                          
                           <!-- SnapWidget -->
-<iframe src="http://snapwidget.com/in/?u=Y295b3Rlc2hvd2JhcnxpbnwxMDB8M3wzfDAwMDAwMHx5ZXN8NXxmYWRlSW58b25TdGFydHxubw==&v=24514" title="Instagram Widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:300px; height:220px"></iframe>
+<iframe src="http://snapwidget.com/in/?u=Y295b3Rlc2hvd2JhcnxpbnwxMDB8M3wzfDAwMDAwMHx5ZXN8NXxmYWRlSW58b25TdGFydHxubw==&v=24514" title="Instagram Widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:200px; height:220px"></iframe>
 
                         </div>
                         
